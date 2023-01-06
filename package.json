@@ -1,0 +1,13 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "API Tutorial",
+  "main": "index.js",
+  "repository": "git@github.com:carstenheisterkamp/api-tutorial.git",
+  "author": "Carsten Heisterkamp",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
